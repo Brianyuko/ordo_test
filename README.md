@@ -1,16 +1,19 @@
 # ordo_flutter
 
-A new Flutter project.
+Submission Test Ordo Flutter Mobile Developer 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Link Apps : [Download Apps](https://drive.google.com/drive/folders/12MJMNKyWIOAYYCR0htnL53oezg07EwdG?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
+Link Demo Youtube : [Lihat Video](https://youtu.be/lbYApIbevNs)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Dependencies :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Google Fonts](https://pub.dev/packages/google_fonts)
+- [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)
+- [Get](https://pub.dev/packages/get)
+- [Supercharged](https://pub.dev/packages/supercharged)
+- [persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar)
+
+
